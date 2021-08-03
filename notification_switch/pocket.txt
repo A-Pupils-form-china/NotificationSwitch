@@ -1,0 +1,1 @@
+{"com.tencent.minihd.qq": [1, "QQHD"], "com.tencent.mobileqq": [2, "QQ"], "com.tencent.mm": [3, "wechat"], "com.mfashiongallery.emag": [4, "\u5c0f\u7c73\u753b\u62a5"]}
